@@ -12,7 +12,7 @@ Publication
  
 
  AUTHORS:
- Sugie, Atsushi (1, 2), Möhl, Christoph (3), Hakeda-Suzuki, Satoko (4), Matsui, Hideaki1,2, Suzuki, Takashi4*, and Tavosanis, Gaia5*
+ Sugie, Atsushi (1, 2), Möhl, Christoph (3), Hakeda-Suzuki, Satoko (4), Matsui, Hideaki (1,2), Suzuki, Takashi (4), and Tavosanis, Gaia (5)
 
  
 
