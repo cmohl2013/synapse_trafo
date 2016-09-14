@@ -28,21 +28,3 @@ Publication
 
 
 
-
- 
-
-E-MAIL ADDRESS
-
-Atsushi Sugie: atsushi.sugie@bri.niigata-u.ac.jp
-
-Christoph Möhl: christoph.moehl@dzne.de
-
-Satoko Hakeda-Suzuki: hakeda@bio.titech.ac.jp
-Hideaki Matsui: hide0729@bri.niigata-u.ac.jp
-Takashi Suzuki: suzukit@bio.titech.ac.jp
-
-Gaia Tavosanis: gaia.tavosanis@dzne.de
- 
-CORRESPONDING AUTHOR:
-Atsushi Sugie (Tel +81 (0)25-227-2995)
-Christoph Möhl (Tel +49 (0)228-43302-638)
